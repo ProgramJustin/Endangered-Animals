@@ -19,7 +19,7 @@ position: relative;
   position: absolute;
   height: 10%;
   width: 5%;
-  right: 40%;
+  right: 50%;
   bottom: 50%;
 }
  p {
@@ -34,8 +34,8 @@ position: relative;
   position: absolute;
   height: 10%;
   width: 5%;
-  right: 45%;
-  bottom: 80%;
+  right: 35%;
+  bottom: 85%;
   border-radius: 5px;
 }
 #beluga {
@@ -43,22 +43,22 @@ position: relative;
   height: 10%;
   width: 5%;
   right: 45%;
-  bottom: 5%;
+  bottom: 18%;
   border-radius: 5px;
 }
 #bison {
   position: absolute;
   height: 10%;
   width: 5%;
-  left: 18%;
-  top: 18%;
+  left: 10%;
+  top: 15%;
   border-radius: 5px;
 }
 #condor {
   position: absolute;
   height: 10%;
   width: 5%;
-  left: 30%;
+  left: 20%;
   bottom: 30%;
   border-radius: 5px;
 }
@@ -68,7 +68,7 @@ position: relative;
   height: 10%;
   width: 5%;
   right: 15%;
-  bottom: 25%;
+  bottom: 30%;
   border-radius: 5px;
 }
 
@@ -76,7 +76,7 @@ position: relative;
   position: absolute;
   height: 10%;
   width: 5%;
-  left: 20%;
+  left: 12%;
   top: 35%;
   border-radius: 5px;
 }
@@ -84,16 +84,16 @@ position: relative;
   position: absolute;
   height: 10%;
   width: 5%;
-  right: 35%;
-  top: 30%;
+  right: 40%;
+  top: 35%;
   border-radius: 5px;
 }
 #seal {
   position: absolute;
   height: 10%;
-  width: 5%;
-  left: 5%;
-  top: 30%;
+  width: 10%;
+  left: 1%;
+  top: 40%;
   border-radius: 5px;
 }
 
@@ -101,7 +101,7 @@ position: relative;
   position: absolute;
   height: 10%;
   width: 5%;
-  right: 20%;
+  right: 25%;
   top: 20%;
   border-radius: 5px;
 }
